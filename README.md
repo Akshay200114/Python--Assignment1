@@ -1,8 +1,12 @@
 # Python--Assignments
 This is all abt the submission of Assignments by Lets upgrade ...Python Essentials.
-1.ASSIGNMENT 1 DONE
+
+
+1.DAY 1 ASSIGNMENT DONE
 <br>
-2.ASSIGNMENT 2 DONE
+2. DAY 2 ASSIGNMENT DONE
+<br>
+3.DAY 3 ASSIGNMENT  DONE
 
 
 
