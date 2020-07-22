@@ -1,5 +1,7 @@
-# Python--Assignment1
-This is an First Assignment By The Lets Upgrade...  solved... By me..
+# Python--Assignments
+This is all abt the submission of Assignments by Lets upgrade ...Python Essentials.
+ASSIGNMENT 1 DONE
+ASSIGNMENT 2 DONE
 
 
 
