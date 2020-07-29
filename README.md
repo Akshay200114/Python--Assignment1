@@ -13,6 +13,8 @@ This is all abt the submission of Assignments by Lets upgrade ...Python Essentia
 5.DAY 5 ASSIGNMENT DONE
 <br>
 6.DAY 6 ASSIGNMENT DONE
+<br>
+7.DAY 7 ASSIGNMENT DONE
 
 
 
